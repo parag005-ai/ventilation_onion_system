@@ -1,8 +1,6 @@
 # Intelligent Ventilation Control System for Onion Storage
 ## Machine Learning Module
 
----
-
 ## 📌 Project Overview
 
 This project implements a Machine Learning-based system to automatically control ventilation in onion storage bins using environmental sensor data.
@@ -171,5 +169,6 @@ Steps:
 4)Deep learning integration
 5)Adaptive learning models
 6)Mobile app integration
+
 
 
