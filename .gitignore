@@ -1,0 +1,24 @@
+# Ignore reports folder
+Reports/
+
+# Ignore screenshots
+*.png
+*.jpg
+*.jpeg
+
+# Ignore Word temp files
+~$*
+
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
